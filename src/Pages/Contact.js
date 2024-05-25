@@ -90,7 +90,7 @@ const Contact = () => {
             />
           </label>
           <label className="text-black-500 font-semibold">
-            Email
+            Message For Me
             <textarea
               type="message"
               name="message"
